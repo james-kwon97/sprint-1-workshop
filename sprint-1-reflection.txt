@@ -1,3 +1,5 @@
+Command Line Reflection:
+
 1. How would you describe the command line in plain English in a couple of sentences? Can you think of an analogy for it?
 
 - Another way of accessing any file on my computer without actually clicking on the file with a mouse or track pad.
