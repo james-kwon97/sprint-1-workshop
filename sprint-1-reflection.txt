@@ -1,0 +1,25 @@
+1. How would you describe the command line in plain English in a couple of sentences? Can you think of an analogy for it?
+
+- Another way of accessing any file on my computer without actually clicking on the file with a mouse or track pad.
+
+
+2. Did you stick to the timebox guidelines? If not, what change would you make next time?
+
+- I started off at my own pace and my own planned out timelines. Later on I realised that it is better to revise following the timebox guidelines and have been trying my best to follow the original timebox.
+
+3. Name five commands you used and what they do.
+
+    1. cd (change directory) : It can change the current directory folder into any other folder I want access to.
+
+    2. ls (to list files) : I can use 'ls' to list all the files in a folder.
+
+    3. mkdir (make directory) : Mkdir is used to make a new directory folder.
+
+    4. cd .. (going up a layer, out of a folder into the parent) : Can be used to go back out of the current folder.
+
+    5. rm -rf (rm -rf name of folder) : Can be used to delete the certain folder via the terminal.
+
+4. Did you learn anything unexpected?
+
+- Yes, I was surprised you can access folders through the Terminal app and it was something I have never had access to before.
+
