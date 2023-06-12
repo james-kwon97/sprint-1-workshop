@@ -17,7 +17,7 @@
 
     4. cd .. (going up a layer, out of a folder into the parent) : Can be used to go back out of the current folder.
 
-    5. rm -rf (rm -rf name of folder) : Can be used to delete the certain folder via the terminal.
+    5. rm -rf (rm -rf name of folder) : Can be used to delete the certain folder via the terminal application.
 
 4. Did you learn anything unexpected?
 
